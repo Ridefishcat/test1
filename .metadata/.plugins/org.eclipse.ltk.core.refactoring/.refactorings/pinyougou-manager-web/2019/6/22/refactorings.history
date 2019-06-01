@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;angular-select2.js&apos; to &apos;js&apos;" description="Move &apos;angular-select2.js&apos; to &apos;js&apos;" destination="src/main/webapp/js" element1="src/main/webapp/plugins/select2/angular-select2.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1559376708067" updateReferences="true"/>
+</session>

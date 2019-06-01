@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\pinyougou\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1685004437.index
+765060057.index
+2628172764.index
+2121564791.index
+198626454.index
+1685004437.index
+1976670294.index
