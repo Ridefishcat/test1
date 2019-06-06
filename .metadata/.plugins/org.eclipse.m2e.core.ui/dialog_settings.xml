@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="cn.itcast.demo"/>
 			<item value="com.pinyougou"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="fastDFSDemo"/>
 			<item value="pinyougou-shop-web"/>
 			<item value="pinyougou-parent"/>
 			<item value="pinyougou-manage-web"/>
@@ -95,13 +97,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.pinyougou.shop.web"/>
 		</list>
 		<list key="groupId">
-			<item value="com.pinyougou"/>
 		</list>
 		<list key="artifactId">
-			<item value="pinyougou-shop-web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

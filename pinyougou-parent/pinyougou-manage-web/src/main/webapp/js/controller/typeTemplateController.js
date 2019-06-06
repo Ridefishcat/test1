@@ -71,6 +71,7 @@ app.controller('typeTemplateController' ,function($scope,$controller,typeTemplat
 	
 	$scope.searchEntity={};//定义搜索对象 
 	
+	
 	//搜索
 	$scope.search=function(page,rows){			
 		typeTemplateService.search(page,rows,$scope.searchEntity).success(
@@ -80,6 +81,7 @@ app.controller('typeTemplateController' ,function($scope,$controller,typeTemplat
 			}			
 		);
 	}
+	
 	
 	//品牌列表
     $scope.brandList={data:[{id:1,text:"联想"},{id:2,text:"华为"},{id:3,text:"中兴"}]}

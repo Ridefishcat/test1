@@ -111,4 +111,21 @@ public class SellerController {
 		return sellerService.findPage(seller, page, rows);		
 	}
 	
+	/**
+	 * 更新状态
+	 * @param sellerId
+	 * @param status
+	 * @return
+	 */
+	@RequestMapping("/updateStatus")
+	public Result updateStatus(String sellerId, String status) {
+		try {
+			sellerService.updateStatus(sellerId, status);
+			return new Result(true, "成功");
+		} catch (Exception e) {
+			// TODO: handle exception
+			return new Result(false, "失败");
+		}
+	}	
+	
 }

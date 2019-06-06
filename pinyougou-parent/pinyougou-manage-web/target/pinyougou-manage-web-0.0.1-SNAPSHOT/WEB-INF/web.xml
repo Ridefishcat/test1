@@ -31,9 +31,30 @@
   	</init-param>
   </servlet>
   
-  <servlet-mapping>
-  	<servlet-name>springmvc</servlet-name>
-  	<url-pattern>*.do</url-pattern>
-  </servlet-mapping>
+	<servlet-mapping>
+  		<servlet-name>springmvc</servlet-name>
+  		<url-pattern>*.do</url-pattern>
+	</servlet-mapping>
+  
+  
+ <!-- spring security 相关配置 -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>classpath:spring/spring-security.xml</param-value>
+	</context-param>
+	<listener>
+		<listener-class>
+			org.springframework.web.context.ContextLoaderListener
+		</listener-class>
+	</listener>
+	<!-- 过滤器，springsecurity的入口 -->
+	 <filter>  
+		<filter-name>springSecurityFilterChain</filter-name>  
+		<filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>  
+	 </filter>  
+	 <filter-mapping>  
+		<filter-name>springSecurityFilterChain</filter-name>  
+		<url-pattern>/*</url-pattern>  <!-- 包含所有资源 -->
+	 </filter-mapping>
 	
 </web-app>
