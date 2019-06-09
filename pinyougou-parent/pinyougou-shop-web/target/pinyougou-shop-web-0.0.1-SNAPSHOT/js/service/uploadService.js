@@ -1,6 +1,6 @@
-app.service("uploadService",function($http){
+app.service('uploadService',function($http){
 	this.uploadFile=function(){
-		var formData = new formData();
+		var formData=new FormData();
 		formData.append("file",file.files[0]);
 		return $http({
 			method:'POST',
