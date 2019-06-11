@@ -27,13 +27,9 @@
 <fullyQualifiedTypeName name="java.lang.Long"/>
 <fullyQualifiedTypeName name="com.pinyougou.pojo.TbItemCatExample"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="com.pinyougou.pojo.TbGoods"/>
-<fullyQualifiedTypeName name="com.pinyougou.pojo.TbGoodsDesc"/>
 <fullyQualifiedTypeName name="com.pinyougou.sellergoods.service.GoodsDescService"/>
 <fullyQualifiedTypeName name="com.pinyougou.mapper.TbGoodsMapper"/>
 <fullyQualifiedTypeName name="com.pinyougou.mapper.TbGoodsDescMapper"/>
-<fullyQualifiedTypeName name="com.pinyougou.pojogroup.Goods"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.context.SecurityContextHolder"/>
 <fullyQualifiedTypeName name="org.csource.fastdfs.ClientGlobal"/>
 <fullyQualifiedTypeName name="org.csource.fastdfs.TrackerClient"/>
 <fullyQualifiedTypeName name="org.csource.fastdfs.StorageServer"/>
@@ -42,9 +38,7 @@
 <fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
 <fullyQualifiedTypeName name="util.FastDFSClient"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
-<fullyQualifiedTypeName name="entity.Result"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-<fullyQualifiedTypeName name="com.pinyougou.pojo.TbItem"/>
 <fullyQualifiedTypeName name="com.alibaba.fastjson.JSON"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
@@ -53,8 +47,15 @@
 <fullyQualifiedTypeName name="com.pinyougou.mapper.TbSellerMapper"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.pinyougou.mapper.TbItemMapper"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.pinyougou.mapper.TbItemCatMapper"/>
-<fullyQualifiedTypeName name="com.pinyougou.pojo.TbItemCat"/>
 <fullyQualifiedTypeName name="com.pinyougou.pojo.TbBrand"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbItemCat"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbItem"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbGoods"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbGoodsDesc"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojogroup.Goods"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbItemExample"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.context.SecurityContextHolder"/>
+<fullyQualifiedTypeName name="entity.Result"/>
 </qualifiedTypeNameHistroy>

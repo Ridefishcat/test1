@@ -5783,3 +5783,534 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.alibaba:d
 2019-06-09 14:44:09,482 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
 2019-06-09 14:46:13,425 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
 2019-06-09 14:46:13,426 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 15:35:23,413 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:35:23,422 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-09 15:35:23,425 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:35:23,431 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:37:53,635 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:37:53,644 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 15:37:53,646 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:37:53,653 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:39:14,474 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:39:14,480 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:39:14,484 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:39:14,527 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:44:59,087 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:44:59,100 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:44:59,101 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:44:59,106 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:45:13,309 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-09 15:45:13,310 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 15:45:24,660 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 15:45:24,661 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 15:49:52,723 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:49:52,730 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:49:52,731 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:49:52,737 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:50:22,284 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:50:22,305 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:50:22,306 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 15:50:22,315 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 15:51:14,818 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 15:51:14,819 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 16:02:54,214 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:02:54,221 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:02:54,222 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:02:54,228 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:03:57,848 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:03:57,855 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:03:57,856 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:03:57,863 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:05:00,557 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 16:05:00,558 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 16:06:30,136 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:06:30,154 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:06:30,155 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:06:30,163 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:09:15,791 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:09:15,799 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:09:15,800 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:09:15,805 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:10:26,849 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:10:26,858 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:10:26,859 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:10:26,867 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:10:44,033 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 16:10:44,034 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 16:15:45,412 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:15:45,454 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:15:45,455 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:15:45,461 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:16:55,041 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:16:55,056 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:16:55,057 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 16:16:55,077 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 16:17:45,270 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 16:17:45,271 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 20:09:57,305 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-09 20:11:12,793 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:12,805 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-09 20:11:12,899 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:12,995 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:11:45,417 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:45,532 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 20:11:45,534 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:45,798 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:11:47,796 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:47,803 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-09 20:11:47,806 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:47,811 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:11:49,238 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:49,244 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 20:11:49,305 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:11:49,312 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:31,897 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:31,904 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:31,905 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:31,910 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:36,244 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:36,255 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-09 20:33:36,258 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:36,264 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:39,370 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:39,377 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 20:33:39,378 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:39,385 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:40,157 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:40,164 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-09 20:33:40,166 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:40,172 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:43,279 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:43,285 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:33:43,286 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:33:43,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:36:32,184 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:36:32,201 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 20:36:32,202 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:36:32,210 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:36:58,815 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:36:58,821 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-09 20:36:58,823 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:36:58,828 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:20,906 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:20,919 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-09 20:37:20,922 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:20,929 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:24,184 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:24,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:24,190 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:24,196 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:37,697 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:37,705 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-09 20:37:37,707 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:37,713 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:38,785 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:38,791 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:37:38,792 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:37:38,798 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:38:36,723 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:38:36,744 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:38:36,746 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:38:36,756 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:39:27,943 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:39:27,970 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:39:27,971 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:39:27,976 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:39:31,736 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-09 20:39:31,739 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 20:44:11,574 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 20:44:11,575 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 20:45:39,788 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:45:39,834 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:45:39,836 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:45:39,843 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:47:12,725 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:47:12,737 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:47:12,738 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:47:12,745 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:51:53,860 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-interface
+2019-06-09 20:51:53,861 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" install
+2019-06-09 20:52:07,624 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-manage-web
+2019-06-09 20:52:07,625 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" install
+2019-06-09 20:52:43,477 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-09 20:52:43,478 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 20:52:56,196 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 20:52:56,197 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 20:57:52,627 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:57:52,749 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:57:52,751 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:57:52,759 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:59:31,046 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:59:31,068 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 20:59:31,069 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 20:59:31,074 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:01:40,402 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:01:40,410 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:01:40,411 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:01:40,417 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:03:04,782 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:03:04,789 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:03:04,790 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:03:04,796 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:03:53,667 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 21:03:53,668 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 21:06:39,507 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:06:39,518 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:06:39,519 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:06:39,528 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:14:45,161 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:14:45,169 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:14:45,170 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:14:45,177 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:51:01,990 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:51:01,998 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:51:02,000 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:51:02,005 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:51:25,926 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-09 21:51:25,928 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-09 21:51:26,030 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:51:26,054 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-09 21:51:26,056 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-09 21:51:26,113 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:03:06,267 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-10 15:03:28,963 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:28,975 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-10 15:03:28,982 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:28,988 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:03:38,670 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:38,677 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 15:03:38,679 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:38,686 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:03:39,368 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:39,374 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-10 15:03:39,377 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:39,383 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:03:40,210 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:40,221 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 15:03:40,223 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:03:40,230 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:04:21,603 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-10 15:04:21,605 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 15:04:56,427 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-10 15:04:56,429 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 15:06:12,985 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-10 15:06:12,987 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 15:07:40,911 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:07:40,921 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:07:40,922 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:07:40,929 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:14:22,360 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:14:22,366 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:14:22,368 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:14:22,374 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:14:24,485 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:14:24,495 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:14:24,497 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:14:24,503 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:05,429 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:05,446 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:05,449 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:05,518 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:06,538 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:06,544 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:06,545 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:06,551 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:35,919 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:35,925 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:17:35,927 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:17:35,934 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:36:08,536 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:36:08,542 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:36:08,543 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:36:08,550 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:40:57,070 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:40:57,084 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 15:40:57,085 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:40:57,097 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:40:58,120 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:40:58,130 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:40:58,132 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:40:58,140 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:43:48,013 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:43:48,044 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:43:48,045 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 15:43:48,052 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 15:43:59,450 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-10 15:43:59,451 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 15:45:23,926 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-10 15:45:23,927 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 15:49:06,164 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-10 15:49:06,165 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-10 16:01:44,572 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:01:44,585 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:01:44,586 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:01:44,594 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:32,295 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:32,303 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:32,306 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:32,313 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:32,982 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:32,990 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-10 16:02:32,991 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:32,998 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:33,069 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:33,078 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 16:02:33,081 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:33,089 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:33,144 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:33,153 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-10 16:02:33,155 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:33,162 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:40,681 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:40,688 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:40,689 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:40,696 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:02:56,646 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:56,654 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 16:02:56,655 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:02:56,668 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:12:54,540 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:12:54,548 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 16:12:54,549 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:12:54,555 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:34,409 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:34,418 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-10 16:13:34,419 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:34,425 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:40,584 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:40,591 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:40,592 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:40,598 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:56,287 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:56,295 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-10 16:13:56,296 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:56,301 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:57,321 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:57,328 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:13:57,329 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:13:57,335 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:14:10,536 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:14:10,545 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-10 16:14:10,547 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:14:10,553 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-10 16:19:01,689 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:19:01,696 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-10 16:19:01,698 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-10 16:19:01,704 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:08:42,898 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:08:42,907 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:08:42,908 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:08:42,916 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:08:59,125 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-interface
+2019-06-11 10:08:59,126 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" install
+2019-06-11 10:09:07,086 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:09:07,093 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:09:07,095 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:09:07,102 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:28:12,801 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-11 10:28:12,802 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 10:28:12,812 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:28:12,825 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:28:12,826 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:28:12,839 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:29:34,956 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:29:34,984 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:29:34,998 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:29:35,006 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:29:44,763 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:29:44,776 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:29:44,780 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:29:44,788 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:32,836 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-11 10:31:43,710 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-11 10:31:46,970 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:46,984 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:31:46,990 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:46,997 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:47,763 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:47,771 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:47,772 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:47,780 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:47,889 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:47,919 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:47,919 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:47,956 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:48,183 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,232 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2019-06-11 10:31:48,238 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,245 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:48,370 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:48,388 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,394 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:48,935 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,942 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-11 10:31:48,949 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:48,955 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:49,935 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:49,942 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:31:49,952 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:49,958 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:50,236 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:50,257 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-11 10:31:50,261 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:50,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:31:54,779 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:54,815 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:31:54,817 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:31:54,826 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:32:13,083 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 10:32:14,394 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-shop-web:0.0.1-SNAPSHOT @ E:\pinyougou\pinyougou-parent\pinyougou-shop-web\pom.xml.
+2019-06-11 10:32:15,410 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/main/java
+2019-06-11 10:32:15,411 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/main/resources
+2019-06-11 10:32:15,412 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/test/java
+2019-06-11 10:32:15,412 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/test/resources
+2019-06-11 10:32:17,095 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for pinyougou-shop-web
+2019-06-11 10:32:17,109 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-06-11 10:33:49,004 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:33:49,013 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-06-11 10:33:49,062 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:33:49,068 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:33:49,069 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of pinyougou-shop-web
+2019-06-11 10:33:49,070 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for pinyougou-shop-web
+2019-06-11 10:33:49,081 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:34:58,223 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-11 10:34:58,225 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 10:35:11,646 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-11 10:35:11,646 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 10:43:38,984 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:43:39,034 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 10:43:39,038 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:43:39,048 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:44:42,362 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:44:42,368 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:44:42,369 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:44:42,376 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:45:14,350 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:45:14,372 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:45:14,373 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:45:14,380 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:45:14,511 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:45:14,517 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:45:14,518 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:45:14,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:46:46,693 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:46:46,706 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:46:46,707 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:46:46,715 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:47:37,272 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:47:37,298 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:47:37,302 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:47:37,314 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:56:46,882 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:56:46,890 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:56:46,892 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:56:46,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:57:50,991 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:57:51,000 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:57:51,001 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:57:51,029 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:58:20,288 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:58:20,324 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 10:58:20,325 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 10:58:20,343 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:02:28,197 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:02:28,216 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:02:28,217 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:02:28,236 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:03:17,577 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:03:17,590 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:03:17,591 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:03:17,603 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:03:34,409 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-manage-web
+2019-06-11 11:03:34,410 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 11:16:14,880 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:14,896 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:16:14,898 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:14,904 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:16:15,216 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:15,223 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 11:16:15,224 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:15,242 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:16:18,629 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:18,635 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:16:18,636 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:16:18,648 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:19:41,656 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:19:41,707 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 11:19:41,708 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:19:41,718 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:19:47,400 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:19:47,407 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 11:19:47,408 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:19:47,414 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:26:33,519 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:26:33,528 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-11 11:26:33,530 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:26:33,538 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:27:21,527 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:27:21,553 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:27:21,554 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:27:21,564 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:29:32,802 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:29:32,811 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:29:32,812 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:29:32,819 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:29:40,585 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:29:40,593 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:29:40,593 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:29:40,600 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:39:27,673 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:39:27,682 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:39:27,683 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:39:27,691 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:42:42,821 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:42:42,832 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:42:42,834 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:42:42,840 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:42:56,724 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-interface
+2019-06-11 11:42:56,725 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" install
+2019-06-11 11:43:37,726 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-11 11:43:37,727 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 11:43:50,864 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-shop-web
+2019-06-11 11:43:50,865 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 11:44:07,329 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-manage-web
+2019-06-11 11:44:07,330 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 11:47:16,893 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:47:16,901 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:47:16,902 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:47:16,909 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:48:09,216 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:48:09,222 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 11:48:09,223 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 11:48:09,229 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:53:00,071 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:53:00,081 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 13:53:00,082 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:53:00,089 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:54:02,020 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:54:02,031 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:54:02,032 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:54:02,040 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:55:23,818 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:55:23,826 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 13:55:23,827 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:55:23,834 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:55:29,369 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-11 13:55:29,370 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 13:55:49,801 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-manage-web
+2019-06-11 13:55:49,802 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run
+2019-06-11 13:57:57,430 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:57:57,439 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 13:57:57,444 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:57:57,451 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:59:21,207 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:59:21,214 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-11 13:59:21,219 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:59:21,225 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:59:21,237 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:59:21,274 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-06-11 13:59:21,320 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-11 13:59:21,327 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-11 13:59:21,440 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\pinyougou\pinyougou-parent\pinyougou-sellergoods-service
+2019-06-11 13:59:21,441 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" -s "C:\Program Files\apache-maven-3.6.1\conf\settings.xml" tomcat7:run

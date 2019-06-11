@@ -76,5 +76,38 @@ app.controller('itemCatController' ,function($scope,$controller   ,itemCatServic
 			}			
 		);
 	}
-    
+	
+	//显示分类列表
+	$scope.findByParentId=function(parentId){
+		itemCatService.findByParentId(parentId).success(
+			function(response){
+				$scope.list=response;
+			}
+		);
+	}
+	
+    //面包屑，导航栏显示
+	$scope.grade=1;//定义一个等级
+	$scope.setGrade=function(value){
+		$scope.grade=value;
+	}
+	
+	$scope.selectList=function(p_entity){
+		if($scope.grade==1){
+			$scope.entity_1=null;
+			$scope.entity_2=null;
+		}
+		if($scope.grade==2){
+			$scope.entity_1=p_entity;
+			$scope.entity_2=null;
+		}
+		if($scope.grade==3){
+			$scope.entity_2=p_entity;
+		}
+		
+		$scope.findByParentId(p_entity.id);//查询此级下级列表
+		
+	}
+	
+	
 });	
