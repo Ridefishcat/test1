@@ -2,21 +2,15 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="cn.itcast.demo"/>
 			<item value="com.pinyougou"/>
+			<item value="cn.itcast.demo"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="fastDFSDemo"/>
-			<item value="pinyougou-shop-web"/>
+			<item value="pinyougou-portal-web"/>
 			<item value="pinyougou-parent"/>
-			<item value="pinyougou-manage-web"/>
-			<item value="pinyougou-sellergoods-service"/>
-			<item value="pinyougou-sellergoods-interface"/>
-			<item value="pinyougou-common"/>
-			<item value="pinyougou-pojo"/>
-			<item value="pinyougou-dao"/>
+			<item value="SpringDataRedisDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -46,7 +40,7 @@
 		<item value="480" key="width"/>
 		<item value="807" key="x"/>
 		<item value="216" key="y"/>
-		<item value="450" key="height"/>
+		<item value="479" key="height"/>
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
 		<item value="480" key="width"/>
@@ -66,6 +60,9 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="pinyougou-portal-web"/>
+			<item value="pinyougou-content-service"/>
+			<item value="pinyougou-content-interface"/>
 			<item value="pinyougou-shop-web"/>
 			<item value="pinyougou-manage-web"/>
 			<item value="pinyougou-sellergoods-service"/>
@@ -85,6 +82,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\pinyougou\fastDFSDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -97,10 +95,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.pinyougou.portal.web"/>
 		</list>
 		<list key="groupId">
+			<item value="com.pinyougou"/>
 		</list>
 		<list key="artifactId">
+			<item value="pinyougou-portal-web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
